@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div_main{
+    width: 800px;
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    margin-bottom: 20px;
+}
